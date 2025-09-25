@@ -6,12 +6,12 @@ Este proyecto es una implementación en Python para procesar, calificar y rankea
 
 El proyecto debe estar organizado de la siguiente manera:
 
-/notebooks
-|-- /src
-|   |-- datos.py
-|   |-- funciones.py
-|-- main.ipynb
-|-- README.md
+/notebooks  
+|-- /src  
+  |-- datos.py  
+  |-- funciones.py  
+|-- main.ipynb  
+|-- README.md  
 
 
 ## Instalación
